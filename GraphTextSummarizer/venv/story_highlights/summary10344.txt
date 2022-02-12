@@ -1,1 +1,0 @@
-PhotoMath app uses phone's camera to solve equations. App can do arithmetic, fractions and simple linear equations. Equation must be printed text, not handwritten

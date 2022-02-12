@@ -1,1 +1,0 @@
-The Raspberry Pi is a credit-card sized computer that costs little more than a textbook. Originally designed to encourage school children to learn programming skills. The mini-PC now hugely popular with DIY geeks, who have used it to power their own creations

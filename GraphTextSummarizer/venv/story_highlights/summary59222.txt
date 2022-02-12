@@ -1,1 +1,0 @@
-Tumblr advises users of its iOS apps to update their passwords. Security hole "allowed passwords to be compromised in certain circumstances". Users of Tumblr's iPhone, iPad apps can download a security fix from App Store

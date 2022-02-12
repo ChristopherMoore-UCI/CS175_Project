@@ -1,1 +1,0 @@
-Real-time shark tracker shows movements of great white sharks. Five great whites are actively pinging their locations off the East Coast. Pings are activated when the sharks surface, so movements are logged erratically

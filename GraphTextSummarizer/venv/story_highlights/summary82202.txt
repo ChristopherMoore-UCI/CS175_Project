@@ -1,1 +1,0 @@
-CNN readers predicted four of the six major categories correctly. CNN readers thought "Lincoln's" Tommy Lee Jones deserved to win best supporting actor. Christoph Waltz took home the supporting actor Oscar for his role in "Django Unchained"

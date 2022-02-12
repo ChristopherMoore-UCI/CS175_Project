@@ -1,1 +1,0 @@
-Facebook rolls out tool to help media outlets crunch its data. CNN among first few to access Public Feed API, Keywords Insight API. The tools can show how popular certain topics are on Facebook
