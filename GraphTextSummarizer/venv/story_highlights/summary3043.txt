@@ -1,0 +1,1 @@
+NASA's Jet Propulsion Laboratory has designed the ape-like robot RoboSimian. The disaster-response robot is competing in the DARPA Robotics Challenge finals. RoboSimian has four limbs, no head and multiple cameras
